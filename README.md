@@ -37,6 +37,4 @@ I am very glad that you could visit this github and check my research work. If i
 
 ## Acknowledgments
 
-This work was going on underlying the guide of prof. [Xintao Wu](http://csce.uark.edu/~xintaowu/). 
-
 Appreciate it greatly for every labmate in [**SAIL lab**](https://sail.uark.edu/)
