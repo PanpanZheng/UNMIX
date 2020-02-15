@@ -17,7 +17,7 @@ We evaluate **DMHP** on two kinds of datasets: [CERT Insider Threat Dataset](htt
 Evaluate the model on Insider Threat Dataset by the following command
 
 ```
-    python unmix.py
+    python DMHP.py
 ```
 
 ## Authors
