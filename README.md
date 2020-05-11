@@ -16,7 +16,7 @@ We evaluate **Unmix** on two kinds of datasets: several *Darknet* datasets (Drea
 
 1. Download the *name disambiguation* data files, 'cna_valid_author_ground_truth.json', 'cna_valid_unass_competition.json', 'cna_valid_pub.json' and 'whole_author_profile.json' into the folder [raw_data/](https://github.com/PanpanZheng/UNMIX/tree/master/dblp/raw_data).
 
-2. Take some preprocessings on the original datasets via jupyter-notebook, [dblp/preprocessing.ipynb]
+2. Take some preprocessings on the original datasets via the jupyter-notebook file [dblp/preprocessing.ipynb] and generate the direct input for main framework.
 
 3. Run the model on *name disambiguation dataset* by the following command
 
